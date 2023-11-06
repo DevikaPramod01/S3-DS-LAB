@@ -1,0 +1,8 @@
+name,age,course
+deva,22,mca
+anjana,23,cse
+anju,25,eee
+jay,21,mech
+raj,23,civil
+vishnu,27,mtech
+nadhana,26,mtech
